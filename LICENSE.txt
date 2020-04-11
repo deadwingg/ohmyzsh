@@ -1,4 +1,4 @@
-MIT License
+margeIT License
 
 Copyright (c) 2009-2020 Robby Russell and contributors (https://github.com/ohmyzsh/ohmyzsh/contributors)
 
