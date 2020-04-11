@@ -4,7 +4,7 @@
 
 Oh My Zsh is an open source, community-driven framework for managing your [zsh](https://www.zsh.org/) configuration.
 
-Sounds boring. Let's try again.
+Sounds boring. Let's try again -ain -in -n -.
 
 __Oh My Zsh will not make you a 10x developer...but you may feel like one.__
 
@@ -26,7 +26,7 @@ To learn more, visit [ohmyz.sh](https://ohmyz.sh), follow [@ohmyzsh](https://twi
 * [Zsh](https://www.zsh.org) should be installed (v4.3.9 or more recent). If not pre-installed (run `zsh --version` to confirm), check the following instructions here: [Installing ZSH](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)
 * `curl` or `wget` should be installed
 * `git` should be installed (recommended v1.7.2 or higher)
-
+- uncambio
 ### Basic Installation
 
 Oh My Zsh is installed by running one of the following commands in your terminal. You can install this via the command-line with either `curl` or `wget`.
